@@ -1,7 +1,7 @@
 {
   "name": "portfolio-02-clock",
   "version": "1.0.0",
-  "description": "Digital clock made with HTML, CSS, JavaSCript",
+  "description": "Digital clock made with HTML, CSS, JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
