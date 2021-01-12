@@ -1,0 +1,22 @@
+@media (min-width: 350px) {
+    .main .main-title {
+        font-size: 4rem;
+    }
+    .main .main-clock {
+        font-size: 3rem;
+    }
+    .footer .footer-info {
+        font-size: 1.2rem;
+    }
+}
+@media (min-width: 768px) {
+    .main .main-title {
+        font-size: 7rem;
+    }
+    .main .main-clock {
+        font-size: 5rem;
+    }
+    .footer .footer-info {
+        font-size: 1.5rem;
+    }
+}

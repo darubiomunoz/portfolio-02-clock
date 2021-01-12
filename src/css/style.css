@@ -34,7 +34,7 @@ body {
     align-content: center;
 }
 .main .main-title {
-    font-size: 4rem;
+    font-size: 3.3rem;
     color: var(--color-white);
     font-weight: 900;
 }
@@ -43,14 +43,14 @@ body {
 }
 .main .main-clock {
     margin: 0 auto;
-    font-size: 3rem;
+    font-size: 2.5rem;
     color: var(--color-first);
 }
 .footer .footer-info {
     position: absolute;
     bottom: 2rem;
     right: 2rem;
-    font-size: 1.4rem;
+    font-size: 1rem;
 }
 .footer .footer-info a {
     color: var(--color-second);
