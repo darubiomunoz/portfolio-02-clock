@@ -1,4 +1,12 @@
-* {
+:root {
+    /* Colors*/
+    --color-white: #FFF;
+    --color-black: #000;
+    --color-background: #040D10;
+    --color-first: #408194;
+    --color-second: #F06FAE;
+}
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,4 +14,46 @@
 html {
     font-size: 62.5%;
     font-family: 'Orbitron', sans-serif;
+}
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-color: var(--color-background);
+    color: var(--color-white);
+    position: relative;
+}
+.main {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.main .main-title {
+    font-size: 4rem;
+    color: var(--color-white);
+    font-weight: 900;
+}
+.main .main-title:hover {
+    color: var(--color-second);
+}
+.main .main-clock {
+    margin: 0 auto;
+    font-size: 3rem;
+    color: var(--color-first);
+}
+.footer .footer-info {
+    position: absolute;
+    bottom: 2rem;
+    right: 2rem;
+    font-size: 1.4rem;
+}
+.footer .footer-info a {
+    color: var(--color-second);
+    text-decoration: none;
+    font-weight: 600;
 }
