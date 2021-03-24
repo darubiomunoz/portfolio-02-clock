@@ -1,40 +1,160 @@
--------------------------------------------------------------------------------
-EN.
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
 
-# Digital clock
-### HTML, CSS, Responsive Design, JavaScript, ECMAScript 6+.
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-Hello, My name is Diego Rubio, currently junior developer (January-2021). I have been studing web development for now 3 month and I wanted to start making my own projects to apply the knowledge I've acquired in the last weeks.
+<!-- PROJECT LOGO -->
+Project Link: [https://darubiomunoz.github.io/portfolio-02-clock/](https://darubiomunoz.github.io/portfolio-02-clock/)
+<br />
+<p align="center">
+  <a href="https://github.com/darubiomunoz/portfolio-06-profilecardcomponent">
+    <img src="./src/assets/images/readme-logo.svg" alt="Logo" width="200" height="200">
+  </a>
+  <h1 align="center">Clock</h1>
+  <p align="center">
+    Javascript
+    <br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><strong>Explore the JavaScript's docs »</strong></a>
+    <br />
+    <br />
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#">Status</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## 1. About The Project :round_pushpin:
+
+![Product Code Screen Shot][code-screenshot]
+![Product Screen Shot][product-screenshot-frontend]
+
+Hello, My name is Diego Rubio, currently junior developer (January-2021). I have been studying web development for now 3 month and I wanted to start making my own projects to apply the knowledge I've acquired in the last weeks.
 
 This project was a very nice one but it was not difficult to create it however fun to code it myself.
-I implemented an inmdiately invoked function expression (IIFE) in the clock's code.
+I implemented an immediately invoked function expression (IIFE) in the clock's code. :start:
 
-Please check the code and full project. Any advice and help is appreciated.
+### Built With :computer:
 
-https://darubiomunoz.github.io/portfolio-02-clock/
--------------------------------------------------------------------------------
-FR.
+This component is developed with:
 
-# Horloge Digital
-### HTML, CSS, Responsive Design, JavaScript, ECMAScript 6+.
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) _version: 5_
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) _version: 3_
+* [Normalize](https://necolas.github.io/normalize.css/) _version: 8.0.1_
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript) _version: ECMAScript 6+_
 
-Bonjour, Mon nom est Diego Rubio, actuellement junior développeur (Janvier-2021). J'ai étudié développement web pendant les trois derniers mois et je voulais commencer a créer mes propes projet pour utiliser touts les connaissance que j'ai acquises dans les semaines d'étude.
+<!-- GETTING STARTED -->
+## 2. Getting Started :fire:
 
-Ce projet était sympa mais ce n'était pas compliqué à créer cependant il était très amusant de développer moi-même. J'ai utilisé un inmdiately invoked function expression (IIFE) dans le Horloge digitale.
+If you want to check out the website in production with github pages visit the link below.
 
-S'il vous plait, vérifier le code et projet complet. Tout conseil ou aide sera apprécié.
+* Link to the project:
+  ```sh
+  https://darubiomunoz.github.io/portfolio-02-clock/
+  ```
 
-https://darubiomunoz.github.io/portfolio-02-clock/
--------------------------------------------------------------------------------
-ES.
+### Installation  :exclamation:
 
-# Reloj Digital
-### HTML, CSS, Responsive Design, JavaScript, ECMAScript 6+.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/darubiomunoz/portfolio-02-clock.git
+   ```
+   ```sh
+   git clone git@github.com:darubiomunoz/portfolio-02-clock.git
+   ```
+   ```sh
+   gh repo clone darubiomunoz/portfolio-02-clock
+   ```
 
-Hola, Mi nombre es Diego Rubio, actualmente junior developer (Enero-2021). He estado estudiando desarrollo web por los últimos 3 meses y quería comenzar a crear mis propios proyectos para aplicar los conocimiento que he adquirido en las semanas de estudio.
 
-Este proyecto fue genial pero no fue muy dificil de crear sin embargo divertido de programar. Implementé una inmdiately invoked function expression (IIFE) en el codigo del reloj.
+2. Run the project with the liveserver extension (VS code extension)
+    ```sh
+    Install live server extension on VS Code
+    ```
+<!-- USAGE EXAMPLES -->
+## 3. Usage :star2:
 
-Por favor, revisa el código y proyecto completo. Cualquier consejo o ayuda es apreciada.
+Feel free to download the code if you need a template for your own clock and modify it as you want to fit your project.
 
-https://darubiomunoz.github.io/portfolio-02-clock/
+_For more knowledge, please refer to the [Documentation](https://developer.mozilla.org/en-US/docs/Web/javascript)_
+
+<!-- CONTRIBUTING -->
+## 4. Contributing :tada:
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- Status -->
+## 5. Status :memo:
+
+The project is `Finished`.
+
+<!-- LICENSE -->
+## 6. License :memo:
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## 7. Contact :e-mail:
+
+Diego Rubio
+[Linkedin](https://www.linkedin.com/in/darmdev/)
+darubiomunoz@gmail.com
+
+Project Link: [https://darubiomunoz.github.io/portfolio-02-clock/](https://darubiomunoz.github.io/portfolio-02-clock/)
+
+<!-- ACKNOWLEDGEMENTS -->
+## 8. Acknowledgements :clap:
+
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+* [Normalize](https://necolas.github.io/normalize.css/)
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+
+:copyright: _Diego Rubio - 2021_
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/darubiomunoz/portfolio-06-profilecardcomponent/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/darmdev/
+[code-screenshot]: ./src/assets/images/code.png/
+[product-screenshot-frontend]: ./src/assets/images/screenshot.jpg
