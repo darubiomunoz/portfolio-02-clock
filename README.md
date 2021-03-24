@@ -11,7 +11,7 @@ I implemented an inmdiately invoked function expression (IIFE) in the clock's co
 
 Please check the code and full project. Any advice and help is appreciated.
 
-https://github.com/darubiomunoz/portfolio-02-clock
+https://darubiomunoz.github.io/portfolio-02-clock/
 -------------------------------------------------------------------------------
 FR.
 
@@ -24,7 +24,7 @@ Ce projet était sympa mais ce n'était pas compliqué à créer cependant il é
 
 S'il vous plait, vérifier le code et projet complet. Tout conseil ou aide sera apprécié.
 
-https://github.com/darubiomunoz/portfolio-02-clock
+https://darubiomunoz.github.io/portfolio-02-clock/
 -------------------------------------------------------------------------------
 ES.
 
@@ -37,4 +37,4 @@ Este proyecto fue genial pero no fue muy dificil de crear sin embargo divertido 
 
 Por favor, revisa el código y proyecto completo. Cualquier consejo o ayuda es apreciada.
 
-https://github.com/darubiomunoz/portfolio-02-clock
+https://darubiomunoz.github.io/portfolio-02-clock/
